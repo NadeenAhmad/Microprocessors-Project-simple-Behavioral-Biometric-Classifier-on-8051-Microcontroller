@@ -70,4 +70,22 @@ need to view Ports 1 & 2
 notifying the user that he/she entered an incorrect character
 therefore we must view UART#1
 Please see the screenshots below!! 
-<img src="https://i.ibb.co/xjF7m9f/test2.jpg" width="500">
+<img src="https://i.ibb.co/xjF7m9f/test2.jpg" width="500">  
+
+
+- **Step #3:**
+- Run the code using the labeled icon in the next screenshot  
+<img src="https://i.ibb.co/FxZ0XkJ/test3.jpg" width="500">    
+
+- **Step#4:**
+- During the training phase the user must enter his identification letter in
+port 0 (if user A enter 0x0A, if user B enter 0x0B) then the user goes to the
+UART window and enters the password.
+<img src="https://i.ibb.co/JQnnk6c/test4.jpg" width="500">   
+
+
+- **Step #5:**
+- During the test phase the user must enter his identification letter in port 0
+(if user C enter 0x0C) then the user goes to the UART window and enters
+the password once.   
+<img src="https://i.ibb.co/rMV7Wsp/test5.jpg" width="500">  
