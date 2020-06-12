@@ -54,7 +54,7 @@ icon labeled in the screenshot as 1
 - Second you need to debug the code using the debug icon labeled in
 the screenshot a 2  
 <img src="https://i.ibb.co/X51yZF3/test.jpg" width="500">  
-<br>
+
 - **Step#2:**  
 In the debugging phase:  
 - As mentioned before we need a switch to indicate whether we are in
